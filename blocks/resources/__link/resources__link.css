@@ -1,14 +1,4 @@
 .resources__link {
   margin: 0;
   padding: 0;
-  width: 270px;
-  height: 38px;
-  object-fit: contain;
-  object-position: center;
-  transition: .2s linear opacity;
-  cursor: pointer;
-  }
-
-  .resources__link:hover {
-    opacity: .4;
   }

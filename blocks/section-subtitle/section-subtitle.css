@@ -4,7 +4,7 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
-  width: 60%;
+  max-width: 60%;
   position: relative;
   z-index: 2;
 }
