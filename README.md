@@ -24,4 +24,4 @@
 - присутствуют файлы index.htmk, index.css, README.md, директории blocks и images;
 - ссылки видоизменяются при наведении.
 
-## [Ссылка на сайт проектной работы &rarr;](https://olpom.github.io/how-to-learn/)
+## [Ссылка на сайт проектной работы &rarr;](https://olga-kozhevina.github.io/how-to-learn/)
